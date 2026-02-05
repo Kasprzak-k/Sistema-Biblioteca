@@ -1,0 +1,19 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Pastas de build/compilado
+out/
+target/
+build/
+
+# Outros comuns em Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Windows/macOS lixo
+.DS_Store
+Thumbs.db
